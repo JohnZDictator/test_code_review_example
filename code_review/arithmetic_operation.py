@@ -1,4 +1,4 @@
-class ArithmeticOperations:
+class Myclass:
     def operation_1(x, y):
         return x + y
     def operation_2(x, y):
